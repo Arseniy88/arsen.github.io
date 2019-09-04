@@ -1,0 +1,349 @@
+@media screen and (min-width: 1450px) {
+.logo {
+	margin-left: 630px;
+	margin-right: 545px;
+}
+}
+
+@media screen and (max-width: 1235px) {
+.logo {
+	margin: 0;
+}
+.nav {
+	float: right;
+}
+.nav a {
+	font-size: 24px;
+}
+.nav nav {
+	margin: 0px 50px;
+}
+.nav1 {
+	float: right;
+}
+.nav1 a {
+	font-size: 24px;
+}
+.nav1 nav {
+	margin: 0px 50px;
+}
+.zag {
+	font-size: 54px;
+}
+#prais li {
+	font-size: 36px;
+}
+.mob1{
+	font-size: 36px;
+}
+.icon {
+	margin: 50px 250px;
+}
+.ins {
+	margin-left: 65px;
+}
+}
+
+@media screen and (max-width: 1020px) {
+.logo {
+	margin: 0;
+}
+.nav {
+	float: right;
+}
+.nav a {
+	font-size: 24px;
+}
+.nav nav{
+	margin: 0px 20px;
+}
+.nav1 {
+	float: right;
+}
+.nav1 a {
+	font-size: 24px;
+}
+.nav1 nav {
+	margin: 0px 20px;
+}
+}
+@media screen and (max-width: 980px) {
+.logo {
+	margin: 0;
+}
+.nav {
+	float: right;
+}
+.nav a {
+	font-size: 24px;
+}
+.nav nav {
+	margin: 0px 30px;
+}
+.nav1 {
+	float: right;
+}
+.nav1 a {
+	font-size: 24px;
+}
+.nav1 nav {
+	margin: 0px 30px;
+}
+.icon {
+	margin: 50px 200px;
+}
+.ins {
+	margin-left: 65px;
+}
+.opens-img1 {
+	margin: 100px 0px;
+	width: 100%;
+	height: 80%;
+}
+.close {
+	margin: 15px 20px;
+}
+}
+@media screen and (max-width: 910px) {
+.icon {
+	margin: 50px 200px;
+}
+.ins {
+	margin-left: 65px;
+}
+.slideshow-container {
+  max-width: 900px;
+  position: relative;
+  margin: auto;
+}
+}
+@media screen and (max-width: 780px) {
+.logo {
+	margin: 0;
+	padding: 10px;
+}
+.nav {
+	float: right;
+}
+.nav a {
+	font-size: 24px;
+}
+.nav nav {
+	margin: 0px 10px;
+}
+.nav1 {
+	float: right;
+}
+.nav1 a {
+	font-size: 24px;
+}
+.nav1 nav {
+	margin: 0px 10px;
+}
+.icon {
+	margin: 50px 100px;
+}
+.ins {
+	margin-left: 65px;
+}
+.slideshow-container {
+  max-width: 900px;
+  position: relative;
+  margin: auto;
+}
+}
+@media screen and (max-width: 655px) {
+.logo {
+	width: 120px;
+	height: 120px;
+	padding: 50px;
+	margin: 0;
+}
+.nav {
+	float: right;
+}
+.nav a {
+	font-size: 18px;
+}
+.nav nav {
+	margin: 0px 10px;
+}
+.nav1 {
+	float: right;
+}
+.nav1 a {
+	font-size: 18px;
+}
+.nav1 nav {
+	margin: 0px 10px;
+}
+.zag {
+	font-size: 42px;
+}
+#prais li {
+	padding: 30px 20px;
+	text-align: center;
+	color: #fff;
+	font-size: 25px;
+	list-style: none;
+}
+.mob1{
+	padding: 30px 50px;
+}
+.icon {
+	margin: 50px 100px;
+}
+.ins {
+	margin-left: 65px;
+}
+.slideshow-container {
+  max-width: 900px;
+  position: relative;
+  margin: auto;
+}
+.opens-img1 {
+	width: 100%;
+	height: 50%;
+}
+.google {
+	width: 100%;
+}
+}
+@media screen and (max-width: 545px) {
+header {
+	height: 125px;
+}
+.logo {
+	padding: 5px 0;
+	margin: 0;
+}
+.nav{
+	float: right;
+}
+.nav a {
+	font-size: 18px;
+}
+.nav nav {
+	margin: 0px 10px;
+}
+.nav1 {
+	margin-top: 50px;
+}
+.nav1 a {
+	font-size: 18px;
+}
+.nav1 nav {
+	margin: 0px 10px;
+}
+.button-order {
+	font-size: 20px;
+}
+.zag {
+	font-size: 35px;
+}
+.icon {
+	margin: 50px 50px;
+}
+.ins {
+	margin-left: 65px;
+}
+.slideshow-container {
+  max-width: 900px;
+  position: relative;
+  margin: auto;
+}
+}
+@media screen and (max-width: 460px) {
+header {
+	height: 100px;
+}
+.container1 {
+		margin-right: 10px;
+}
+.logo {
+	padding: 15px 15px;
+	width: 75px;
+	height: 75px;
+}
+.nav{
+	margin-top: 40px;
+	float: right;
+}
+.nav a {
+	font-size: 12px;
+}
+.nav nav {
+	margin: 0px 5px;
+}
+.nav1 {
+	margin-top: 40px;
+}
+.nav1 a {
+	font-size: 12px;
+}
+.nav1 nav {
+	margin: 0px 5px;
+}
+.button-order {
+	font-size: 20px;
+}
+.zag {
+	margin-top: 70px;
+	font-size: 25px;
+}
+#prais li {
+	font-size: 20px;
+}
+#maps p{
+	font-size: 45px;
+}
+.mob1{
+	font-size: 20px;
+}
+.icon {
+	text-align: center;
+	margin: 50px 20px;
+}
+.slideshow-container {
+  max-width: 900px;
+  position: relative;
+  margin: auto;
+}
+.icon img {
+	width: 60px;
+}
+.icon a {
+	padding: 15px 30px;
+	margin: 0 10px;
+}
+.mob1{
+	padding: 30px 10px;
+}
+}
+
+@media screen and (max-width: 320px) {
+.logo {
+	padding: 15px 15px;
+	width: 75px;
+	height: 75px;
+}
+.nav{
+	margin-top: 40px;
+	float: right;
+}
+.nav a {
+	font-size: 12px;
+}
+.nav nav {
+	margin: 0px 5px;
+}
+.nav1 {
+	margin-top: 40px;
+}
+.nav1 a {
+	font-size: 12px;
+}
+.nav1 nav {
+	margin: 0px 5px;
+}
+}
